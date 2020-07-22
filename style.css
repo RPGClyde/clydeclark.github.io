@@ -1,1 +1,13 @@
+form {
+    background-color: lightgray;
+    margin: 10px 20px;
+    padding: 20px;
+}
 
+.float-left {
+    float: left;
+}
+
+.card {
+    border: 1px solid red;
+}
