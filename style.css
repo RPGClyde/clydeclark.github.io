@@ -2,6 +2,7 @@ form {
     background-color: lightgray;
     margin-top: 10px;
     padding: 20px;
+    border: 1px solid blue;
 }
 
 h1 {
@@ -10,6 +11,7 @@ h1 {
 
 .navbar {
     background-color: #65ab88;
+    border: 1px solid blue;
 }
 
 .float-left {
@@ -18,11 +20,12 @@ h1 {
 
 .card {
     background-color: lightgray;
+    border: 1px solid blue
     padding: 10px;
 }
 
 .card-img-top {
-    border: 1px solid black;
+    border: 1px solid blue;
 
 }
 
@@ -30,8 +33,12 @@ h1 {
 
 }
 
+.btn {
+    background-color: #65ab88;
+}
+
 #bio {
     padding: 20px;
     background-color: lightgray;
-    border: 1px solid black;
+    border: 1px solid blue;
 }
