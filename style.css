@@ -1,7 +1,15 @@
 form {
     background-color: lightgray;
-    margin: 10px 20px;
+    margin-top: 10px;
     padding: 20px;
+}
+
+h1 {
+
+}
+
+.navbar {
+    background-color: #65ab88;
 }
 
 .float-left {
@@ -9,5 +17,21 @@ form {
 }
 
 .card {
-    border: 1px solid red;
+    background-color: lightgray;
+    padding: 10px;
+}
+
+.card-img-top {
+    border: 1px solid black;
+
+}
+
+.card-text {
+
+}
+
+#bio {
+    padding: 20px;
+    background-color: lightgray;
+    border: 1px solid black;
 }
