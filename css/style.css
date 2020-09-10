@@ -1,8 +1,21 @@
 form {
+    border-radius: 5px;
     background-color: lightgray;
     margin-top: 10px;
     padding: 20px;
     border: 1px solid blue;
+}
+
+button {
+    border-radius: 5px;
+    margin: 2px;
+    padding: 5px;
+    background-color: #65ab88;
+    color: white;
+}
+
+.container {
+    align-content: center;
 }
 
 .navbar {
@@ -12,6 +25,26 @@ form {
 
 .float-left {
     float: left;
+}
+
+.carousel-control-prev-icon {
+    color: blue;
+}
+
+.carousel-inner {
+    border-radius: 5px;
+    border: 1px solid blue;
+}
+
+.carousel-item {
+    border: 1px solid blue;
+
+}
+
+.gitLink {
+    font-size: 20px;
+    font-weight: bold;
+    align-content: center;
 }
 
 .card {
@@ -30,6 +63,7 @@ form {
 }
 
 #bio {
+    border-radius: 5px;
     padding: 20px;
     background-color: lightgray;
     border: 1px solid blue;
