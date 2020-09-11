@@ -18,6 +18,10 @@ button {
     align-content: center;
 }
 
+.centered {
+    text-align: center;
+}
+
 .navbar {
     background-color: #65ab88;
     border: 1px solid blue;
@@ -27,24 +31,9 @@ button {
     float: left;
 }
 
-.carousel-control-prev-icon {
-    color: blue;
-}
-
 .carousel-inner {
     border-radius: 5px;
     border: 1px solid blue;
-}
-
-.carousel-item {
-    border: 1px solid blue;
-
-}
-
-.gitLink {
-    font-size: 20px;
-    font-weight: bold;
-    align-content: center;
 }
 
 .card {
